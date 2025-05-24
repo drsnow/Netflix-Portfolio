@@ -44,4 +44,12 @@ Sistema de recomendación sencillo usando `TfidfVectorizer` y `NearestNeighbors`
 - `scikit-learn` (`KMeans`, `PCA`, `TF-IDF`, `NearestNeighbors`)
 - `Jupyter Notebook`
 
+## DATASET_INFO:
+🔗 URL directa al dataset:
+https://www.kaggle.com/datasets/shivamb/netflix-shows
 
+Nombre del dataset:
+📦 Netflix Movies and TV Shows
+📁 Archivo principal: netflix_titles.csv
+
+Este dataset contiene información como título, tipo (película o serie), fecha de incorporación, año de estreno, duración, país, género, director, reparto y descripción.
